@@ -15,6 +15,8 @@ public class GoogleTest2 {
 	public void testGoogle() {
 		System.out.println("hola");
 		
+		System.out.println("rick");
+		
 	}
 	
 	
